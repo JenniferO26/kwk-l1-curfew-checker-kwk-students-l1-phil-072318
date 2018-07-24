@@ -5,7 +5,8 @@ end
 end 
 
 def curfew_checker(time)
-   if time > = 
+   if time > = 11 
+     puts " you're in trouble if it's later than 11"
 end
 
 def complex_curfew_checker(time)
